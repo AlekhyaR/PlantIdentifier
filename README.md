@@ -3,7 +3,7 @@
 **PlantID** is a modern web application designed to help users easily identify plants through AI technology.  
 Users can either **upload** a photo or **take** a picture of a plant, and the app will **analyze** it instantly, providing **plant identification**, **care instructions**, and **useful insights**.
 
-![plant_identifier](app/assets/plant_identifier_1.png)
+![plant_identifier](/app/assets/plant_identifier_1.png)
 
 ## Key Features:
 - **Upload or Camera Option**:  
